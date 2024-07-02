@@ -64,8 +64,8 @@
 
 ## Навыки и Технологии
 
-- **Языки программирования:** Node.js, TypeScript, JavaScript, Golang.
-- **Фреймворки:** NestJS, React.
+- **Языки программирования:** Node.js, TypeScript, JavaScript, Golang, С#.
+- **Фреймворки:** NestJS, Fastify, React (для своих проектиков).
 - **Базы данных:** PostgreSQL, MSSQL, MongoDB, Redis.
-- **Инструменты и технологии:** Docker, Git, gRPC, GraphQL, REST, Prism, Puppeteer, ООП.
+- **Инструменты и технологии:** Docker, Git, gRPC, GraphQL, Prism, Puppeteer, ООП, RabbitMQ, Kafka, и всякое другое.
 - **Опыт:** Более 5-6 лет разработки.
